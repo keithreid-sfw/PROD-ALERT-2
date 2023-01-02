@@ -5,6 +5,7 @@ Thank you for coming to PROD-ALERT-2. This is the manual.
 ORGINAL PAPER
 If you wish to read the original paper you can get it here:
 
+  https://www.frontiersin.org/articles/10.3389/fdgth.2022.945635/full
 
 
 THIS ADVICE
@@ -16,12 +17,18 @@ First you ge the files.
 GETTING FILES
 Get the files from here:
 
-
+  https://digital.nhs.uk/data-and-information/publications/statistical/mental-health-services-monthly-statistics
 
 CLEANING FILES
-The files here in this repsoitory are eladery cleaned.
+The files here in this repository are cleaned.
+One really has to celan them before they are uploadable because they are very big and GitHub won't accept them.
 Sort columns "breadkdown" and delete everything in that column except "provider".
+Similarly we delete everythin except headline counts per month for these, leaving one simple file for each per month:
 
+  people subject to detention at the end of the reporting peroid
+  people subject to restraint during the reporting period
+  bed bed days per month
+  
 
 
 
