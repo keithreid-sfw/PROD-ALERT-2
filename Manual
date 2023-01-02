@@ -34,5 +34,9 @@ The timeline is the next year after the previous PROD-ALERT.
 That is to say it is the twelve months September 2021 to August 2022.
 
 WHAT IS A PROVIDER
-Providers have bed days more than zero in at least one month in the year under analysis.
+In real life, providers have beds and detained people under the Mental Health Act.
+In data terms, providers are names appearing in the "provider" column which have:
+
+  bed days more than zero in at least one month in the year under analysis.
+  detentions more than zero in at least one month in the year under analysis.
 
