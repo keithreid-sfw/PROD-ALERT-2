@@ -22,13 +22,17 @@ Get the files from here:
 CLEANING FILES
 The files here in this repository are cleaned.
 One really has to clean them before they are uploadable because they are very big and GitHub won't accept them.
-Sort columns "breadkdown" and delete everything in that column except "provider".
+Sort columns "breakdown" and delete everything in that column except "provider".
 Similarly we delete everything except headline counts per month for these, leaving one simple file for each per month:
 
   people subject to detention at the end of the reporting peroid
   people subject to restraint during the reporting period
   bed bed days per month
 
+WHAT IS THE TIMELINE
+The timeline is the next year after the previous PROD-ALERT.
+That is to say it is the twelve months September 2021 to August 2022.
 
-
+WHAT IS A PROVIDER
+Providers have bed days more than zero in at least one month in the year under analysis.
 
