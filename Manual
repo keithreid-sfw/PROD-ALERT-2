@@ -40,3 +40,5 @@ In data terms, providers are names appearing in the "provider" column which have
   bed days more than zero in at least one month in the year under analysis.
     and
   are not children's hospitals
+    and
+  having at least one reported detention in the year
