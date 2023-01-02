@@ -1,5 +1,5 @@
 # PROD-ALERT-2
-Psychiatric Restraint Open Data Analysis using Logarithmic Estimate of Reporting Trends
+Psychiatric Restraint Open Data Analysis using Logarithmic Estimate of Reporting Trends part 2
 
 Repository for the second iteration of PROD-ALERT.
 
