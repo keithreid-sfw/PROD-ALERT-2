@@ -3,7 +3,7 @@ Psychiatric Restraint Open Data Analysis using Logarithmic Estimate of Reporting
 
 Repository for the second iteration of PROD-ALERT.
 
-The project uses statistical methods to describe patterns in reporting of restraint in Enlgish Mental Health providers.
+The project uses statistical methods to describe patterns in reporting of restraint in English Mental Health providers.
 
 This repository is written in real time and openly by the sole author.
 The only changes to method since the first paper are neater/faster ways of doing things, the basic methods are the same.
