@@ -7,7 +7,9 @@ The project uses statistical methods to describe patterns in reporting of restra
 # WARNING DATA IN THIS REVIEW ARE NOT YET PEER REVIEWED
 
 This repository is written in real time and openly by the sole author in Python, to be accessible to most coders.
-The previous repository now called PROD-ALERT 1 remains available and is on Excel but is now obsolete.
+the purpose of that is to be abel to say, in retrospect, that the methods were developed entirely open adn in open source code.
+
+The previous repository now called PROD-ALERT 1 remains available on reasonble reqeust and is on Excel but is now obsolete.
 The only changes to method since the first paper are neater/faster/clearer ways of doing things.
 The basic methods are the same.
 
