@@ -11,7 +11,7 @@ The basic methods are the same.
 
 In all providers reporting restraint in the legally mandated open data, size and detentions correlated with restraint.
 Many large providers claimed no restraint for a whole year September 2020-August 2021 in that open data.
-Some ahve joined in and their restraint is as prediucted by PROD-ALERT 1.
+Some non-small providers have joined in and their restraint is as prediucted by PROD-ALERT 1.
 
 ORIGINAL PAPER
 
