@@ -25,3 +25,9 @@ ORIGINAL PAPER
 If you wish to read the original paper peer reviewed paper in Frontiers you can get it here:
 
   https://www.frontiersin.org/articles/10.3389/fdgth.2022.945635/full
+  
+For celebrity height which is used as a comparator for disinformation in the second paper see this website:
+
+  https://www.thefamouspeople.com/height-6ft-6in.php
+  
+  
