@@ -28,6 +28,13 @@ If you wish to read the original paper peer reviewed paper in Frontiers you can 
   
 For celebrity height which is used as a comparator for disinformation in the second paper see this website:
 
-  https://www.thefamouspeople.com/height-6ft-6in.php
+  https://www.thefamouspeople.com/
   
-  
+For height data:
+
+  Walker M, Shaper AG, Wannamethee G.
+  Height and social class in middle-aged British men.
+  J Epidemiol Community Health. 1988 Sep;42(3):299-303.
+  doi: 10.1136/jech.42.3.299.
+  PMID: 3251013;
+  PMCID: PMC1052743.
