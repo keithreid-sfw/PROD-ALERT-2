@@ -6,10 +6,10 @@ The project uses statistical methods to illustrate patterns in reporting of rest
 
 # WARNING DATA IN THIS REVIEW ARE NOT YET PEER REVIEWED
 
-This repository is written in real time and openly by the sole author in Python, to be accessible to most coders.
-the purpose of that is to be able to say, in retrospect, that the methods were developed entirely open and in open source code. Teh underlying data is publicly avilable open data required to be reported by law.
+This repository is written in real time and openly, to be accessible to most coders.
+The purpose of that is to be able to say, in retrospect, that the methods were developed entirely open and in open source code. The underlying data is publicly avilable open data required to be reported by law.
 
-The previous repository now called PROD-ALERT 1 remains available on reasonble reqeust and is on Excel but is now obsolete. The only changes to method since the first paper are neater/faster/clearer ways of doing things.
+The previous repository now called PROD-ALERT 1 remains available on reasonable reqeust and is on Excel but is now obsolete. The changes to method since the first paper are mainly neater/faster/clearer ways of doing things.
 The basic methods are the same.
 
 In all providers reporting restraint in the legally mandated open data, size and detentions correlated with restraint.
